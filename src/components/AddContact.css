@@ -1,0 +1,38 @@
+.add-contact-form {
+  margin-bottom: 24px;
+}
+
+.add-contact-form h3 {
+  margin-bottom: 12px;
+}
+
+.add-contact-form input {
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-contact-form button {
+  margin-right: 8px;
+  padding: 6px 12px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-contact-form button:hover {
+  background-color: #0056b3;
+}
+
+.btn-cancel {
+  background-color: #ccc;
+}
+
+.btn-cancel:hover {
+  background-color: #999;
+}
